@@ -12,3 +12,11 @@
 >It's my article
 
 Use `git status` to list all new...
+
+Некоторые основные команды Git:
+
+```
+git status
+git add 
+git commit
+```
