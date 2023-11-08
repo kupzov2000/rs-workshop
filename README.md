@@ -57,4 +57,4 @@ This site was built using [ВКонтакте](https://vk.com/feed).
 ## Tasks
 - [x] #739
 - [ ] Delete google chrome
-- [ ] (Optional) Open a followup issue
+- [ ] \(Optional) Open a followup issue
