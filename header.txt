@@ -2,4 +2,4 @@ Some text for header
 Changes from <master>
 Changes from <first>
 
-Text from master: new changes!!!!!!!
+Text from master: new changes!!!
