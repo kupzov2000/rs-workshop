@@ -60,3 +60,10 @@ This site was built using [ВКонтакте](https://vk.com/feed).
 - [ ] \(Optional) Open a followup issue
 
 @github/support What do you about these updates?
+
+## URL
+Тут ссылка №1[^1].
+Тут ссылка №2[^2].
+
+[^1]: Тут что-то должно было быть.
+[^2]: Тут вроде тоже. И можно их поставить в любое место разметки
