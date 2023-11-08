@@ -77,7 +77,7 @@ This site was built using [ВКонтакте](https://vk.com/feed).
 >[!NOTE]
 >Какая-то инфа+-
 
->[WARNING]
+>[!WARNING]
 >Внимание!!!!Б.Ю.Александров. Спасибо за внимание!!
 
 
