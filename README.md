@@ -53,3 +53,7 @@ This site was built using [ВКонтакте](https://vk.com/feed).
 3) First item
     1) no first item
         2) noup
+
+## Tasks
+- [x] #739
+- [ ] Delete google chrome
