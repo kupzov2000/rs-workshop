@@ -58,3 +58,5 @@ This site was built using [ВКонтакте](https://vk.com/feed).
 - [x] #739
 - [ ] Delete google chrome
 - [ ] \(Optional) Open a followup issue
+
+@github/support What do you about these updates?
