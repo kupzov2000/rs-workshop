@@ -25,3 +25,5 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 ## Site
 This site was built using [ВКонтакте](https://vk.com/feed).
+
+[Contribut guid for this project](pages/CONTRIBUT.md)
