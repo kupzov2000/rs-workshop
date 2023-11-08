@@ -35,3 +35,13 @@ This site was built using [ВКонтакте](https://vk.com/feed).
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
++Джорджо
++Джовано
+-Секьюри
+*Вантус
+
+1. Не Джорджо
+2. Не Джовано
+3. Не Секьюри
+4. И даже не Вантус
