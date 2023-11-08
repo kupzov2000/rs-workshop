@@ -51,5 +51,5 @@ This site was built using [ВКонтакте](https://vk.com/feed).
         - noup
 
 1) First item
-    1. no first item
-        2. noup
+    1) no first item
+        2) noup
