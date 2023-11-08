@@ -10,3 +10,5 @@
 Где я?
 
 >It's my article
+
+Use `git status` to list all new...
